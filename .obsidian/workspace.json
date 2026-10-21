@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS106L/lec1.md",
+                "file": "ICS/chapter 1 概述.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lec1"
+              "title": "chapter 1 概述"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS106L/lec1.md",
+                "file": "ICS/chapter 1 概述.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,9 +199,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cad073a114df2c3b",
+  "active": "c18fb799cec9f9b4",
   "lastOpenFiles": [
     "CS106L/lec1.md",
+    "ICS/chapter 1 概述.md",
+    "ICS",
+    "未命名.canvas",
     "CS106L",
     "欢迎.md"
   ]
