@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ICS/chapter 1 概述.md",
+                "file": "ICS/chapter 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chapter 1 概述"
+              "title": "chapter 2"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ICS/chapter 1 概述.md",
+                "file": "ICS/chapter 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,8 +201,9 @@
   },
   "active": "c18fb799cec9f9b4",
   "lastOpenFiles": [
-    "CS106L/lec1.md",
     "ICS/chapter 1 概述.md",
+    "ICS/chapter 2.md",
+    "CS106L/lec1.md",
     "ICS",
     "未命名.canvas",
     "CS106L",
