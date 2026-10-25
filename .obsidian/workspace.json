@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ICS/chapter 2.md",
+                "file": "ICS/lab做题笔记/data lab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chapter 2"
+              "title": "data lab"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ICS/chapter 2.md",
+                "file": "ICS/lab做题笔记/data lab.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,8 +201,10 @@
   },
   "active": "c18fb799cec9f9b4",
   "lastOpenFiles": [
-    "ICS/chapter 1 概述.md",
     "ICS/chapter 2.md",
+    "ICS/lab做题笔记/data lab.md",
+    "ICS/lab做题笔记",
+    "ICS/chapter 1 概述.md",
     "CS106L/lec1.md",
     "ICS",
     "未命名.canvas",
