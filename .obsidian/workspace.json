@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ICS/lab做题笔记/data lab.md",
+                "file": "ICS/chapter 3 程序的机器级表示.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "data lab"
+              "title": "chapter 3 程序的机器级表示"
             }
           }
         ]
@@ -201,7 +201,8 @@
   },
   "active": "c18fb799cec9f9b4",
   "lastOpenFiles": [
-    "ICS/chapter 2.md",
+    "ICS/chapter 2 信息的位级表示.md",
+    "ICS/chapter 3 程序的机器级表示.md",
     "ICS/lab做题笔记/data lab.md",
     "ICS/lab做题笔记",
     "ICS/chapter 1 概述.md",
