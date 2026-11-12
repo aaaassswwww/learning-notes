@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chapter 6 存储器层次结构.md",
+                "file": "ICS/chapter 6 存储器层次结构.md",
                 "mode": "source",
                 "source": false
               },
@@ -199,14 +199,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c18fb799cec9f9b4",
+  "active": "cad073a114df2c3b",
   "lastOpenFiles": [
-    "ICS/chapter 5 优化程序性能.md",
-    "chapter 6 存储器层次结构.md",
-    "ICS/chapter 1 概述.md",
-    "ICS/chapter 3 程序的机器级表示.md",
     "ICS/chapter 4 处理器体系结构.md",
+    "ICS/chapter 6 存储器层次结构.md",
+    "ICS/chapter 5 优化程序性能.md",
+    "ICS/chapter 3 程序的机器级表示.md",
     "ICS/chapter 2 信息的位级表示.md",
+    "ICS/chapter 1 概述.md",
     "ICS/lab做题笔记/data lab.md",
     "ICS/lab做题笔记",
     "CS106L/lec1.md",
