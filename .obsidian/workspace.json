@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ICS/chapter 7 链接.md",
+                "file": "ICS/chapter 8 异常控制流.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chapter 7 链接"
+              "title": "chapter 8 异常控制流"
             }
           }
         ]
@@ -201,8 +201,9 @@
   },
   "active": "c18fb799cec9f9b4",
   "lastOpenFiles": [
-    "ICS/chapter 3 程序的机器级表示.md",
     "ICS/chapter 7 链接.md",
+    "ICS/chapter 8 异常控制流.md",
+    "ICS/chapter 3 程序的机器级表示.md",
     "ICS/chapter 4 处理器体系结构.md",
     "ICS/chapter 5 优化程序性能.md",
     "ICS/chapter 6 存储器层次结构.md",
